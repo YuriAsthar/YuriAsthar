@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Yuri Asthar, sou desenvolvedor de software, atualmente sou estagiário em uma empresa do estado de Minas Gerais.
 
 <!--
 **YuriAsthar/YuriAsthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
